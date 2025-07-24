@@ -27,12 +27,12 @@ Desarrollar un sistema automatizado de recubrimiento por inmersión controlado p
 
 El nombre **Deeppool** surge como una reinterpretación del término *deep coater*, reflejando tanto la profundidad del proceso físico como el enfoque técnico y de automatización del sistema.
 
-## 📸 Capturas o renders (opcional)
+## 📸 Capturas o renders
 
-_Añade aquí algunas imágenes del diseño CAD, la simulación o el prototipo físico._
+![Vista del prototipo](imagenes/Prototipo.png)_
 
-## 📝 Cómo usar el proyecto
+<!-- ## 📝 Cómo usar el proyecto
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/deeppool.git
+   git clone https://github.com/tu_usuario/deeppool.git -->
