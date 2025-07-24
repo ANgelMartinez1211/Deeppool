@@ -1,1 +1,6 @@
 STL/
+# Ignorar todo dentro de la carpeta
+imagenes/*
+
+# Pero no ignores este archivo específico
+!imagenes/Prototipo.png
